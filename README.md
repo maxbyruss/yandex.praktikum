@@ -14,7 +14,7 @@
   - Нужно изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали. 
   - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![NumPy](https://img.shields.io/badge/NumPy-grey) ![Matplotlib](https://img.shields.io/badge/Seaborn-grey) ![SciPy](https://img.shields.io/badge/SciPy-grey) ![SQL](https://img.shields.io/badge/SQL-grey)
 
-- ### [Машинное обучение для текстов](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/main/nlp) | спринт 13
+- ### [Машинное обучение для текстов](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/nlp) | спринт 13
   - В нашем распоряжении датасет с размечеными комментариями от пользователей. Основная задача проекта: `Обучить модель классифицировать комментарии на негативные и позитивные`.
   - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Google](https://img.shields.io/badge/GoogleColab-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![Pytorch](https://img.shields.io/badge/Pytorch-grey) ![BERT](https://img.shields.io/badge/BERT-grey) ![NumPy](https://img.shields.io/badge/NumPy-grey) ![Matplotlib](https://img.shields.io/badge/MatplotLib-grey) ![Sci-Kit Learn](https://img.shields.io/badge/Sklearn-grey) ![Spacy](https://img.shields.io/badge/Spacy-grey)
 
