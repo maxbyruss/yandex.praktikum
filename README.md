@@ -35,3 +35,17 @@
   - Вы работаете в интернет-магазине «Стримчик», который продаёт по всему миру компьютерные игры.  
   - Нужно выявить определяющие успешность игры закономерности.
   - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![Sci-Kit Learn](https://img.shields.io/badge/Sklearn-grey)
+
+  - ### [Исследовательский анализ](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/exploratory_analysis) | спринт 3
+  - Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
+  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey)
+  ![Plotly](https://img.shields.io/badge/Plotly-grey)
+
+- ### [Предобработка данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_preprocessing) | спринт 2
+  - Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
+  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey)
+
+  
+- ### [Анализ данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/big_city_music) | спринт 1
+  - Вступительный проект
+  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) 
