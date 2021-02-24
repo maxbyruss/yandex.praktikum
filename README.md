@@ -2,25 +2,17 @@
 
 Курс "Специалист по  Data Science" от Яндекс.Практикум.
 
-- ### [Компьютерное зрение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/computer_vision) | спринт 15
-  - Проект для супермаркета, в котором внедряют систему компьютерного зрения для обработки фотографий покупателей. Такая система в прикассовой зоне поможет определять возраст клиентов, чтобы:
-    - Анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы;
-    - Контролировать добросовестность кассиров при продаже алкоголя.
-  - Нужно построить модель, которая по фотографии определит приблизительный возраст человека.
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![NumPy](https://img.shields.io/badge/NumPy-grey) ![Matplotlib](https://img.shields.io/badge/Seaborn-grey) ![Tensorflow](https://img.shields.io/badge/Tensorflow-grey) 
+- ## ![img.png](https://www.flaticon.com/svg/vstatic/svg/3479/3479964.svg?token=exp=1614163322~hmac=c3aaa591ab4e38dca860505060d80481) [Компьютерное зрение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/computer_vision)
+  - Построение модели с использованием нейронной сети, которая смодет определять возраст по фото.
 
-- ### [Извлечение данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_extraction) | спринт 14
-  - Вы аналитик российской авиакомпании F9, выполняющей внутренние пассажирские перевозки. Важно понять предпочтения пользователей, покупающих билеты на разные направления. Вам предстоит изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали.
-  - Нужно изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали. 
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![NumPy](https://img.shields.io/badge/NumPy-grey) ![Matplotlib](https://img.shields.io/badge/Seaborn-grey) ![SciPy](https://img.shields.io/badge/SciPy-grey) ![SQL](https://img.shields.io/badge/SQL-grey)
+- ## [Извлечение данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_extraction)
+  - SQL запросы и анализ данных на Python.
 
-- ### [Машинное обучение для текстов](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/nlp) | спринт 13
-  - В нашем распоряжении датасет с размечеными комментариями от пользователей. Основная задача проекта: `Обучить модель классифицировать комментарии на негативные и позитивные`.
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Google](https://img.shields.io/badge/GoogleColab-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![Pytorch](https://img.shields.io/badge/Pytorch-grey) ![BERT](https://img.shields.io/badge/BERT-grey) ![NumPy](https://img.shields.io/badge/NumPy-grey) ![Matplotlib](https://img.shields.io/badge/MatplotLib-grey) ![Sci-Kit Learn](https://img.shields.io/badge/Sklearn-grey) ![Spacy](https://img.shields.io/badge/Spacy-grey)
+- ## [Машинное обучение для текстов](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/nlp)
+  - Построение модели классификации текста с помощью word2vec, BERT и Логистической регрессии.
 
-- ### [Временные ряды](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/time_series) | спринт 12
-  - Компания «Зеленоглазое такси» собрала исторические данные о заказах в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час.
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![NumPy](https://img.shields.io/badge/NumPy-grey) ![Matplotlib](https://img.shields.io/badge/Seaborn-grey) ![Sci-Kit Learn](https://img.shields.io/badge/Sklearn-grey) ![lightgbm](https://img.shields.io/badge/LightGBM-grey)
+- ## [Временные ряды](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/time_series)
+  - Построение прогнозирующей модели с помощью временных рядов и данных агрегатора такси.
 
 - ### [Градиентный бустинг](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/gradient_boosting) | спринт 11
   - Сервис по продаже автомобилей разрабатывает приложение. В нём можно будет быстро узнать рыночную стоимость своего автомобиля. Основная задача проекта: `Построить модель для определения стоимости автомобиля.`
