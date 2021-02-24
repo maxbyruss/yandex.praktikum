@@ -2,7 +2,7 @@
 
 Курс "Специалист по  Data Science" от Яндекс.Практикум.
 
-- ## ![img.png](https://www.flaticon.com/svg/vstatic/svg/3479/3479964.svg?token=exp=1614163322~hmac=c3aaa591ab4e38dca860505060d80481) [Компьютерное зрение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/computer_vision)
+- ## ![img.png](https://www.flaticon.com/free-icon/eye_3479964?term=computer%20vision&page=1&position=4&page=1&position=4&related_id=3479964&origin=tag#) [Компьютерное зрение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/computer_vision)
   - Построение модели с использованием нейронной сети, которая смодет определять возраст по фото.
 
 - ## [Извлечение данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_extraction)
