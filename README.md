@@ -1,45 +1,45 @@
 # Яндекс.Практикум
 
-Курс "Специалист по  Data Science" от Яндекс.Практикум.
+Курс профессиональной переподготовки "Специалист по  Data Science" от [Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist). 
 
-## [Компьютерное зрение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/computer_vision) ![img.png](https://i.imgur.com/SRQcSiq.png)
-***
-Построение модели с использованием нейронной сети, которая сможет определять возраст по фото.
-***
+- ## [Компьютерное зрение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/computer_vision) ![img.png](https://i.imgur.com/0lqxmUS.png)
+  - Построение модели с использованием нейронной сети, которая сможет определять возраст по фото.
 
-- ## [Извлечение данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_extraction) ![img.png](https://i.imgur.com/Ikduzqd.png)
-  - SQL запросы и анализ данных на Python.
+- ## [Извлечение данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_extraction) ![img.png](https://i.imgur.com/7mc1Q3j.png)
+  - SQL запросы, проверка гипотез и анализ данных на Python.
 
-- ## [Машинное обучение для текстов](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/nlp) ![img.png](https://i.imgur.com/QX3qA2e.png)
+- ## [Машинное обучение для текстов](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/nlp) ![img.png](https://i.imgur.com/rlRP0dA.png)
   - Построение модели классификации текста с помощью word2vec, BERT и Логистической регрессии.
 
-- ## [Временные ряды](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/time_series) ![img.png](https://i.imgur.com/xSgdH0L.png)
+- ## [Временные ряды](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/time_series) ![img.png](https://i.imgur.com/7O9LYqX.png)
   - Построение прогнозирующей модели с помощью временных рядов и данных агрегатора такси.
 
-- ## [Градиентный бустинг](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/gradient_boosting) ![img.png](https://i.imgur.com/ce4ojp3.png)
-  - Сервис по продаже автомобилей разрабатывает приложение. В нём можно будет быстро узнать рыночную стоимость своего автомобиля. Основная задача проекта: `Построить модель для определения стоимости автомобиля.`
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![CatBoost](https://img.shields.io/badge/CatBoost-grey) ![LightGBM](https://img.shields.io/badge/LightGBM-grey) ![NumPy](https://img.shields.io/badge/NumPy-grey) ![Matplotlib](https://img.shields.io/badge/Seaborn-grey) ![Sci-Kit Learn](https://img.shields.io/badge/Sklearn-grey)
+- ## [Градиентный бустинг](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/gradient_boosting) ![img.png](https://i.imgur.com/jB2rCjV.png)
+  - Построение модели способную спрогнозировать цену на автомобиль, сравнение моделей с градиентным бустингом и без.
 
-- ### [Обучение с учителем](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/supervised_learning) ![img.png](https://i.imgur.com/TLX4ZDk.png)
-  - Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно.
-  - Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![Sci-Kit Learn](https://img.shields.io/badge/Sklearn-grey)
+- ## [Линейная алгебра](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/linear_algebra) ![img.png](https://i.imgur.com/8zXWBQC.png)
+  - Кодирование данных с помощью линейной регрессии
 
-- ### [Сборный проект](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/modular_project) ![img.png](https://i.imgur.com/rTdVPYi.png)
-  - Вы работаете в интернет-магазине «Стримчик», который продаёт по всему миру компьютерные игры.  
-  - Нужно выявить определяющие успешность игры закономерности.
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![Sci-Kit Learn](https://img.shields.io/badge/Sklearn-grey)
+- ## [Сборный проект 02](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/modular_project02) ![img.png](https://i.imgur.com/pxTKp33.png)
+  - Построение модели, которая способна прогнозировать коэффицент ценных металлов в руде.
 
-  - ### [Исследовательский анализ](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/exploratory_analysis) ![img.png](https://i.imgur.com/okmTohc.png)
-  - Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey)
-  ![Plotly](https://img.shields.io/badge/Plotly-grey)
+- ## [Машинное обучение в бизнесе](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/ml_in_business) ![img.png](https://i.imgur.com/u0A76Eo.png)
+  - Построение предиктивной модели с помощью линейной регрессии и техники бутстрэп.
 
-- ### [Предобработка данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_preprocessing) | спринт 2
-  - Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey)
+- ## [Обучение с учителем](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/supervised_learning) ![img.png](https://i.imgur.com/Lp6J4Zt.png)
+  - Построение модели бинарной классификации прогнозирующую уход клиента из банка. 
 
+- ## [Введение в машинное обучение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/intoduction_to_ml) ![img.png](https://i.imgur.com/u0A76Eo.png)
+  - Построение модели рекомендательной системы для телеком компании с помощью Python.
+
+- ## [Сборный проект](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/modular_project) ![img.png](https://i.imgur.com/pxTKp33.png)
+  - Исследование рынка видеоигр и проверка гипотез.
+
+- ## [Статистический анализ](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/statistical_analysis) ![img.png](https://i.imgur.com/pxTKp33.png)
+  - Статистический анализ данных телеком компании с помощью Python.
+
+- ## [Предобработка данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_preprocessing) ![img.png](https://i.imgur.com/xZ2p6pZ.png)
+  - Предобработка данных и поиск зависимостей.
   
-- ### [Анализ данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/big_city_music) | спринт 1
-  - Вступительный проект
-  - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) 
+- ## [Вводный проект](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/big_city_music) ![img.png](https://i.imgur.com/xZ2p6pZ.png)
+  - Разбираемся какую музыку слушают жители больших городов.
