@@ -3,7 +3,7 @@
 Курс "Специалист по  Data Science" от Яндекс.Практикум.
 
 - ## [Компьютерное зрение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/computer_vision) ![img.png](https://i.imgur.com/SRQcSiq.png)
-  - Построение модели с использованием нейронной сети, которая смодет определять возраст по фото.
+  - Построение модели с использованием нейронной сети, которая сможет определять возраст по фото.
 
 - ## [Извлечение данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_extraction) ![img.png](https://i.imgur.com/Ikduzqd.png)
   - SQL запросы и анализ данных на Python.
@@ -28,7 +28,7 @@
   - Нужно выявить определяющие успешность игры закономерности.
   - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey) ![Sci-Kit Learn](https://img.shields.io/badge/Sklearn-grey)
 
-  - ### [Исследовательский анализ](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/exploratory_analysis) | спринт 3
+  - ### [Исследовательский анализ](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/exploratory_analysis) ![img.png](https://i.imgur.com/okmTohc.png)
   - Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
   - ![Python](https://img.shields.io/badge/Python-grey) ![Jupyter](https://img.shields.io/badge/Jupyter-grey) ![Pandas](https://img.shields.io/badge/Pandas-grey)
   ![Plotly](https://img.shields.io/badge/Plotly-grey)
