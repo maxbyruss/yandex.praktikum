@@ -2,7 +2,7 @@
 
 Курс "Специалист по  Data Science" от Яндекс.Практикум.
 
-- ## ![img.png](https://i.imgur.com/WWhnsyR.png) [Компьютерное зрение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/computer_vision)
+- ## ![img.png](https://i.imgur.com/7EUPzwP.png) [Компьютерное зрение](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/computer_vision)
   - Построение модели с использованием нейронной сети, которая смодет определять возраст по фото.
 
 - ## [Извлечение данных](https://github.com/GoshaTraksel/yandex.praktikum/tree/main/data_extraction)
